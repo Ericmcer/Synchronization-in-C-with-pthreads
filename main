@@ -1,4 +1,4 @@
-//Program will be passed three argv 1. running time 2. number of producers 3. number of consumers
+//Program will be passed three argv: 1. running time 2. number of producers 3. number of consumers
 //producers and consumers will access shared buffer at random intervals and output their actions and buffer contents 
 
 #include <stdio.h>
